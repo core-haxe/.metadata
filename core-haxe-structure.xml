@@ -27,6 +27,7 @@
 	</messaging>
 	<misc>
 		<libgit2 type="haxelib-dev" source="https://github.com/core-haxe/libgit2" />
+		<modular type="haxelib-dev" source="https://github.com/core-haxe/modular" />
 	</misc>
 	<utils>
 		<haven type="haxelib-dev" source="https://github.com/core-haxe/haven" />
