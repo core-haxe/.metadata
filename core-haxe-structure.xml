@@ -14,6 +14,7 @@
 		<db-mysql type="haxelib-dev" source="https://github.com/core-haxe/db-mysql" />
 		<db-sqlite type="haxelib-dev" source="https://github.com/core-haxe/db-sqlite" />
 		<entities type="haxelib-dev" source="https://github.com/core-haxe/entities" />
+		<entities2 type="haxelib-dev" source="https://github.com/core-haxe/entities2" />
 		<libmysqlclient type="haxelib-dev" source="https://github.com/core-haxe/libmysqlclient" />
 		<libsqlite3 type="haxelib-dev" source="https://github.com/core-haxe/libsqlite3" />
 		<mysql type="haxelib-dev" source="https://github.com/core-haxe/mysql" />
