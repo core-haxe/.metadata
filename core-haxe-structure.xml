@@ -2,6 +2,8 @@
 	<common>
 		<serializers type="haxelib-dev" source="https://github.com/core-haxe/serializers" />
 		<xml2object type="haxelib-dev" source="https://github.com/core-haxe/xml2object" />
+		<xml type="haxelib-dev" source="https://github.com/core-haxe/xml" />
+		<observable type="haxelib-dev" source="https://github.com/core-haxe/observable" />
 	</common>
 	<comms>
 		<ftp type="haxelib-dev" source="https://github.com/core-haxe/ftp" />
@@ -32,6 +34,7 @@
 	</misc>
 	<utils>
 		<haven type="haxelib-dev" source="https://github.com/core-haxe/haven" />
+		<haxe-patcher type="haxelib-dev" source="https://github.com/core-haxe/haxe-patcher" />
 		<logging type="haxelib-dev" source="https://github.com/core-haxe/logging" />
 		<promises type="haxelib-dev" source="https://github.com/core-haxe/promises" />
 	</utils>
